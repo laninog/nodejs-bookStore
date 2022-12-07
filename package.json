@@ -18,7 +18,7 @@
     "construx-dustjs": "^1.1.0",
     "construx-less": "^1.0.0",
     "dust-makara-helpers": "^4.1.2",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "express-messages": "^1.0.1",
     "kraken-js": "^1.0.6",
     "makara": "^2.0.3",
