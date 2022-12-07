@@ -18,7 +18,7 @@
     "construx-dustjs": "^1.1.0",
     "construx-less": "^1.0.0",
     "dust-makara-helpers": "^4.1.2",
-    "express": "^4.15.2",
+    "express": "^4.18.2",
     "express-messages": "^1.0.1",
     "kraken-js": "^1.0.6",
     "makara": "^2.0.3",
@@ -39,6 +39,6 @@
     "grunt-makara-amdify": "^1.0.1",
     "grunt-mocha-cli": "^1.14.0",
     "mocha": "^1.18.0",
-    "supertest": "^0.9.2"
+    "supertest": "^6.3.2"
   }
 }
